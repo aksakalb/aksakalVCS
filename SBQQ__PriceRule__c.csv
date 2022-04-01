@@ -1,2 +1,0 @@
-"Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
-7687f98c-8ea0-4789-9f1d-f639a9d90bdb,DiscountTest,true,0 AND 1,Custom,"#N/A",On Calculate,1.0,"#N/A",Calculator

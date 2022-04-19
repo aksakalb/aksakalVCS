@@ -1,3 +1,3 @@
-"Guid","SBQQ__Field__c","SBQQ__FilterFormula__c","SBQQ__FilterType__c","SBQQ__Index__c","SBQQ__Object__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedFormula__c","SBQQ__Value__c"
-26ec4385-32b3-415c-b061-9284383b83bc,Product Code,"#N/A",Value,1.0,Quote Line,not equals,46c39b6d-a6f4-4133-a49b-ae5b20baad1a,"#N/A",UPC-002
-5e4fca46-cb64-4703-8082-1195bf070054,Product Code,"#N/A",Value,0.0,Quote Line,not equals,46c39b6d-a6f4-4133-a49b-ae5b20baad1a,"#N/A",UPC-001
+"Guid","Price_Rule2__c","SBQQ__Field__c","SBQQ__FilterFormula__c","SBQQ__FilterType__c","SBQQ__Index__c","SBQQ__Object__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedFormula__c","SBQQ__Value__c"
+28339338-9ba8-4f93-b525-e5e6cf390672,"#N/A",Product Code,"#N/A",Value,1.0,Quote Line,not equals,5f42187f-6e1f-4034-8e0a-6cc927b51f25,"#N/A",UPC-002
+59bc521d-12d8-431b-b58e-a5631606c385,"#N/A",Product Code,"#N/A",Value,0.0,Quote Line,not equals,5f42187f-6e1f-4034-8e0a-6cc927b51f25,"#N/A",UPC-001

@@ -1,0 +1,2 @@
+"Guid","BillingTerm","BillingTermUnit","Description","IsActive","MatchingAttribute","Name","RatingMethod","SBQQ__Category__c","Type","UnitOfMeasure"
+9a1c52b9-796d-410b-9da3-010b6db2cb6e,24,Month,"#N/A",true,"#N/A",Test Consumption Schedule,Tier,Rates,Range,"#N/A"

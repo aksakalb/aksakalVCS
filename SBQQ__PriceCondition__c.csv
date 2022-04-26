@@ -1,3 +1,1 @@
 "Guid","Price_Rule2__c","SBQQ__Field__c","SBQQ__FilterFormula__c","SBQQ__FilterType__c","SBQQ__Index__c","SBQQ__Object__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedFormula__c","SBQQ__Value__c"
-2bd6855c-4198-4e98-87cf-b865c59a28d7,"#N/A",Product Code,"#N/A",Value,0.0,Quote Line,not equals,c81339b3-4eff-430e-a9ff-4705b99b76b2,"#N/A",UPC-001
-b3bfe74c-ca7c-4f3d-a8bc-1303087c3bd6,"#N/A",Product Code,"#N/A",Value,1.0,Quote Line,not equals,c81339b3-4eff-430e-a9ff-4705b99b76b2,"#N/A",UPC-002
